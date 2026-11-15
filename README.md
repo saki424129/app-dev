@@ -36,9 +36,9 @@ You play as the **Manager**, who leads a group of 12 people called **Sinners**. 
 
 ## Why I Like It
 
-- [x] Great story
-- [x] Awesome art and music
-- [x] Interesting characters
-- [ ] Finish all the Cantos
+-  Great story
+-  Awesome art and music
+-  Interesting characters
+
 
 ~~It's just a simple game.~~ It's actually a deep story with a lot of heart.
